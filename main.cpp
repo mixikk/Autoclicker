@@ -50,7 +50,7 @@ Sleep(1000);
     }
 
     cout << "The clicks have been made." << endl;
-    cout << "Application Written by WispGuardian/Noah." << endl;
+    cout << "Application Written by mixikk." << endl;
     cout << "    " << endl;
     Sleep(1000);
     cout << "Again?   (y) or (n)" << endl;
